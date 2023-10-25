@@ -2,8 +2,6 @@
 
 Welcome to the React One-Time Password (OTP) Field component! This component will enable you to easily and efficiently implement an OTP input field in your react application. 🔒
 
----
-
 ## 📖 Table of Contents
 
 1. [Installation](#installation)
@@ -13,8 +11,6 @@ Welcome to the React One-Time Password (OTP) Field component! This component wil
 5. [Contribute](#contribute)
 6. [License](#license)
 7. [Support & Feedback](#support-feedback)
-
----
 
 ## 🛠 Installation <a name="installation"></a>
 
@@ -43,8 +39,6 @@ import OTPField from '[PATH_TO_OTPField]';
 ## 🌟 Examples <a name="examples"></a>
 
 Coming soon!
-
----
 
 ## 🤝 Contribute <a name="contribute"></a>
 
