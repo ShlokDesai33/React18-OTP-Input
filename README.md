@@ -14,10 +14,7 @@ Welcome to the React One-Time Password (OTP) Field component! This component wil
 
 ## 🛠 Installation <a name="installation"></a>
 
-```sh
-# Coming Soon!
-# npm install [PACKAGE_NAME]
-```
+Copy the code in the src file into your project and get started right away!
 
 ## 🎯 Usage <a name="usage"></a>
 
