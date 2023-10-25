@@ -7,7 +7,7 @@ Welcome to the React One-Time Password (OTP) Field component! This component wil
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Props](#props)
-4. [Examples](#examples)
+4. [Demo](#demo)
 5. [Contribute](#contribute)
 6. [License](#license)
 7. [Support & Feedback](#support-feedback)
@@ -39,9 +39,9 @@ import OTPField from '[PATH_TO_OTPField]';
 | `className`| string  | (Optional) Custom className to be added to the container.     |
 | `error`    | boolean | (Optional) If true, it applies error styling to the input.    |
 
-## 🌟 Examples <a name="examples"></a>
+## 🌟 Demo <a name="demo"></a>
 
-Coming soon!
+[Link to YT video](https://youtu.be/WAGHk02hmy4)
 
 ## 🤝 Contribute <a name="contribute"></a>
 
