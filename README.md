@@ -1,6 +1,6 @@
 # React 18 OTP Component
 
-Welcome to the React One-Time Password (OTP) Field component! This component will enable you to easily and efficiently implement an OTP input field in your react application. 🔒
+Welcome to the React One-Time Password (OTP) Field component! This component will enable you to easily and efficiently implement an OTP input field in your react application. The component uses TailwdindCSS for styling.
 
 ## 📖 Table of Contents
 
@@ -13,6 +13,8 @@ Welcome to the React One-Time Password (OTP) Field component! This component wil
 7. [Support & Feedback](#support-feedback)
 
 ## 🛠 Installation <a name="installation"></a>
+
+First install the only dependency:
 
 ```sh
 # npm install clsx
