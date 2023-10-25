@@ -14,7 +14,11 @@ Welcome to the React One-Time Password (OTP) Field component! This component wil
 
 ## 🛠 Installation <a name="installation"></a>
 
-Copy the code in the src file into your project and get started right away!
+```sh
+# npm install clsx
+```
+
+Next, copy the code in the src file into your project and import it anywhere to get started!
 
 ## 🎯 Usage <a name="usage"></a>
 
